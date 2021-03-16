@@ -13,3 +13,5 @@ Depploy the website now
 ## How to Contribute
 
 Contribute now and say ok
+
+## Copyright
