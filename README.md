@@ -12,6 +12,6 @@ Depploy the website now
 
 ## How to Contribute
 
-Contribute now and say ok
+Contribute now and say ok and we are good
 
 ## Copyright
