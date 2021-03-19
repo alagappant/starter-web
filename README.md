@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-This repository is for showing how Git and GitHub work
+Good Morning, This repository is for showing how Git and GitHub work
 
 ## Purpose
 
@@ -16,3 +16,5 @@ Depploy the website now
 Contribute now and say ok and we are good
 
 ## Copyright
+
+Approved
