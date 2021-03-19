@@ -10,7 +10,7 @@
 
     <Alagappan>
 
-# TECHNOLOGY COLOPHON
+# TECHNOLOGY COLOPHON : <Super Duper>
 
     HTML5, CSS3
     jQuery, Modernizr
