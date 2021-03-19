@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-Good Morning, This repository is for showing how Git and GitHub work
+Good Morning, This repository is for showing how Git and GitHub work. Updating again
 
 ## Purpose
 
